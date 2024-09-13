@@ -1,6 +1,23 @@
 # cario-test
 
-This template should help get you started developing with Vue 3 in Vite.
+**Instructions on how to run the app:**
+1. Follow the project setup below
+2. After **npm run dev** go to the localhost url displayed in your terminal.
+3. It will show you a temperature image with celsius and fahrenheit boxes.
+4. Type a number from -30 to 200 in celsius or -22 to 392 in fahrenheit.
+5. The temperature level will be red if it is 1 to 200 degrees celsius.
+6. The temperature level will be blue if it is -1 to -30 celsius.
+
+
+**Time spent:**
+
+2 hrs : functionality
+
+1 hr : design
+
+
+**Note:** The drag-and-drop functionality is missing and I'm not able to add it.
+
 
 ## Recommended IDE Setup
 
